@@ -52,4 +52,5 @@ def create_calendar():
 
 create_calendar()
 
+#確認したら消す
 input("\n確認したらEnterを押してね

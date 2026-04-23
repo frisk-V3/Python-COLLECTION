@@ -1,8 +1,7 @@
+#ライブラリを使ってみる
 import PySimpleGUI as sg
 import os
 
-# 1. 登録が必要なバージョン5系の場合、ここでライセンス入力を求められます
-# 2. フラッシュ対策：ダブルバッファリング的な挙動を期待してテーマを固定
 sg.theme('SystemDefault') 
 
 def create_tab(title="無題", content="", path=None):

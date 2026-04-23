@@ -1,3 +1,4 @@
+
 import tkinter as tk
 import datetime
 import calendar
@@ -52,6 +53,5 @@ def create_calendar():
 
 create_calendar()
 
-#確認したら消す
-input("\n確認したらEnterを押してね")
+
 

@@ -1,5 +1,6 @@
 import random
 
+
 answer = random.randint(1, 10)
 tries = 5
 

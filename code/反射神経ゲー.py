@@ -9,3 +9,4 @@ input("今だ！")
 end = time.time()
 
 print("反射速度:", end - start, "秒" )
+input("\n確認したらEnterを押してね")

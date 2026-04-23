@@ -51,3 +51,5 @@ def create_calendar():
     root.mainloop()
 
 create_calendar()
+
+input("\n確認したらEnterを押してね
